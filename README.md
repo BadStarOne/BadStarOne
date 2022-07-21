@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BadStarOne
+- 👋 Hi, I’m @BadStarOne (AKA) Joey
 - 👀 I’m interested in ...devs
 - 🌱 I’m currently learning ...HTML,SQL,Python
 - 💞️ I’m looking to collaborate on ...games
